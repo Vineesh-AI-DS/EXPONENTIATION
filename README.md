@@ -25,8 +25,9 @@ fun(k)
 ```
 
 ## Output:
-![exponentiation of a number](expo.png)
 
+
+![expo](https://user-images.githubusercontent.com/93427254/146868552-75e385f4-f95d-4443-b280-28062f526aab.png)
 
 ## Result:
 Thus the program to find the exponentiation of a given number is written and verified using python programming.
